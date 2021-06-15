@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mikakatua/GitHub%20integration/_apis/build/status/mikakatua.calculator?branchName=master)](https://dev.azure.com/mikakatua/GitHub%20integration/_build/latest?definitionId=16&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
